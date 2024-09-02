@@ -54,8 +54,10 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
-<h3>PROGRAM:</h3>
+<h3> Program</h3>
+
 ```
+
 from collections import deque
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -78,8 +80,8 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-```
 
+```
 <hr>
 <h3>Sample Input</h3>
 <hr>
