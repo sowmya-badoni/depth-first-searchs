@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name:SOWMYA BADONI </h3>
-<h3>Register Number: 2122223230211     </h3>
+<h3>Name:ASHWINA K N </h3>
+<h3>Register Number: 212223230025   </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -82,6 +82,7 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 
 ```
+
 <hr>
 <h3>Sample Input</h3>
 <hr>
